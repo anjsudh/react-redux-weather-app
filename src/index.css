@@ -1,0 +1,16 @@
+.pure-form button {
+  margin-left:10px;
+}
+.pure-table{
+  margin:auto;
+}
+.pure-table td {
+  height:100px
+}
+.units{
+  font-size:10px
+}
+td:first-of-type, td:first-of-type > div{
+  height:200px;
+  width:200px;
+}
